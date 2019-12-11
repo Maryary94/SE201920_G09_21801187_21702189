@@ -1,0 +1,12 @@
+Título da aplicação: Hiring System
+
+Planeamento do layout: 
+
+
+Base de dados interna: preço por hora;
+                       o nome dos trabalhadores de cada serviço;
+                       email;
+                       o nome dos clientes;
+                       as suas respetivas moradas;
+                       o numero dos trabalhadores;
+                       disponibilidade de cada trabalhador em relação à horário.
