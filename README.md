@@ -3,4 +3,4 @@
 Fui adicionado a 11/12/2019
   - Imagens do mockup
   - Ficheiro do mockup feito no balsamiq
-  - Desrição do projecto
+  - Descrição do projecto
