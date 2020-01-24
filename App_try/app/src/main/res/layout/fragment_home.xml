@@ -26,13 +26,6 @@
                     android:layout_alignParentLeft="true"
                     android:src="@drawable/icon" />
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="38dp"
-                    android:layout_alignParentRight="true"
-                    android:layout_centerInParent="true"
-                    android:src="@drawable/send_icon" />
-
 
             </RelativeLayout>
 

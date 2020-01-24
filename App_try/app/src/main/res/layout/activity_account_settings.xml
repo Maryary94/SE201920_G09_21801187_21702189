@@ -105,12 +105,12 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/username_profile_frag"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
         android:layout_marginTop="16dp"
-        android:inputType="text"
+        android:layout_marginRight="20dp"
         android:hint="Bio"
+        android:inputType="text"
 
-        />
+        android:visibility="invisible" />
 
     <EditText
         android:id="@+id/time_profile_frag"
@@ -118,12 +118,12 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/bio_profile_frag"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
         android:layout_marginTop="16dp"
-        android:inputType="text"
+        android:layout_marginRight="20dp"
         android:hint="Disponibility"
+        android:inputType="text"
 
-        />
+        android:visibility="invisible" />
 
     <Button
         android:id="@+id/logout_btn"
@@ -145,18 +145,18 @@
         android:id="@+id/delete_account_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
+        android:layout_alignParentBottom="true"
         android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
         android:layout_marginTop="16dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/colorPrimary"
         android:inputType="text"
         android:text="Delete Account"
-        android:background="@color/colorPrimary"
-        android:layout_alignParentBottom="true"
+        android:textAllCaps="false"
         android:textColor="@android:color/white"
         android:textSize="16dp"
-        android:textAllCaps="false"
-        />
+        android:visibility="invisible" />
 
 
 </RelativeLayout>
