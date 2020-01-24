@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jobs">
+        <item>prof</item><item>nome</item><item>email</item>
+    </string-array>
+</resources>
